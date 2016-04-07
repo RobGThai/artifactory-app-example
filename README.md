@@ -8,6 +8,8 @@ Use this project in conjunction with [artifactory-lib-example][lib-example] when
 
 Tested on Gradle version 2.10, using Wrapper.
 
+To run this project use `./gradlew build run`
+
 [artifactory]: https://www.jfrog.com/open-source/
 [lib-example]: https://github.com/RobGThai/artifactory-lib-example
 
